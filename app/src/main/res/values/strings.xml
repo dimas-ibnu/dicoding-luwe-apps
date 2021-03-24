@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Luwe Apps</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="food_price">Harga Makanan</string>
+    <string name="food_desc">Deskripsi Makanan</string>
+    <string name="favorit">Favorit</string>
+    <string name="share">Share</string>
+    <string name="price">Harga</string>
+    <string name="desc">Deskripsi</string>
+    <string name="name">Name</string>
+    <string name="author">Dimas Ibnu Malik</string>
+    <string name="email">a2732515@bangkit.academy</string>
+</resources>
